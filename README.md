@@ -136,3 +136,9 @@ Credit_Card_Fraud_Detection/
 └── README.md
 ```
 
+## 👤 Author
+**Bahre Hailemariam**  
+_Data Analyst & BI Developer_  
+📧 bahre.hailemariam@example.com  
+💼 LinkedIn: [https://linkedin.com/in/bahre-hailemariam](https://linkedin.com/in/bahre-hailemariam)  
+📊 GitHub: [https://github.com/bahre-hailemariam](https://github.com/bahre-hailemariam)

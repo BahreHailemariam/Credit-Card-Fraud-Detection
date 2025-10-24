@@ -84,3 +84,7 @@ print(f"AUC Score: {auc:.4f}")
 - ROC Curve
 - Precision-Recall Curve
 
+### 4️⃣ Risk Segmentation
+- Heatmap showing high-risk customer segments
+- Drill-through report: Transaction-level details for flagged users
+

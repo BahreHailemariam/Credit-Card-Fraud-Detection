@@ -117,3 +117,22 @@ streamlit run fraud_app.py
 - Random Forest and XGBoost achieved high recall (~0.93)
 - Explainable AI (SHAP values) used for feature influence visualization
 
+## 📁 Project Structure
+```
+Credit_Card_Fraud_Detection/
+├── data/
+│   └── creditcard.csv
+├── notebooks/
+│   ├── EDA.ipynb
+│   ├── Model_Training.ipynb
+├── app/
+│   └── fraud_app.py
+├── dashboard/
+│   └── PowerBI_Report.pbix
+├── scripts/
+│   ├── preprocess.py
+│   ├── train_model.py
+│   └── evaluate_model.py
+└── README.md
+```
+

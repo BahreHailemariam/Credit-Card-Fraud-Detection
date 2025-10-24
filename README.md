@@ -96,3 +96,9 @@ print(f"AUC Score: {auc:.4f}")
 | SQL | Querying and aggregating transaction data |
 | Streamlit / Flask | Model deployment |
 
+## 🚀 Deployment
+Deployed via Streamlit app:
+```bash
+streamlit run fraud_app.py
+```
+

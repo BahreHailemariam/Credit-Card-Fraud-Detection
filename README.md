@@ -78,3 +78,9 @@ print(f"AUC Score: {auc:.4f}")
 - Distribution of transaction amount by fraud status
 - Fraud by time of day (line chart)
 - Top merchants/users flagged
+
+### 3️⃣ Model Performance Overview
+- Confusion Matrix
+- ROC Curve
+- Precision-Recall Curve
+

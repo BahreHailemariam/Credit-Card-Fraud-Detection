@@ -50,3 +50,16 @@ y_pred = model.predict(X_test)
 
 print(classification_report(y_test, y_pred))
 ```
+
+### 4️⃣ Model Evaluation
+Metrics used:
+- Precision
+- Recall
+- F1 Score
+- AUC-ROC
+
+```python
+from sklearn.metrics import roc_auc_score, roc_curve
+auc = roc_auc_score(y_test, y_pred)
+print(f"AUC Score: {auc:.4f}")
+```

@@ -73,3 +73,8 @@ print(f"AUC Score: {auc:.4f}")
 ### 1️⃣ Fraud Detection Summary
 - KPIs: Total Transactions, Fraud Transactions %, Precision, Recall
 - Chart: Fraudulent vs Legitimate Transactions (Bar Chart)
+
+### 2️⃣ Transaction Pattern Analysis
+- Distribution of transaction amount by fraud status
+- Fraud by time of day (line chart)
+- Top merchants/users flagged

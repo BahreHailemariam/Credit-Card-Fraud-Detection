@@ -102,3 +102,8 @@ Deployed via Streamlit app:
 streamlit run fraud_app.py
 ```
 
+## 🕒 Automation & Maintenance
+- ETL scripts scheduled with Airflow for daily data refresh
+- Automated retraining pipeline triggered monthly
+- Email alerts for performance drift or high fraud spikes
+

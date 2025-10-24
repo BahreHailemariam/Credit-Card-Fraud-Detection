@@ -107,3 +107,7 @@ streamlit run fraud_app.py
 - Automated retraining pipeline triggered monthly
 - Email alerts for performance drift or high fraud spikes
 
+## 🔒 Ethical & Compliance Considerations
+- Dataset anonymized to protect privacy
+- Model fairness evaluated across customer segments
+- Bias mitigation techniques applied to ensure equitable fraud detection

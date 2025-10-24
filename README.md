@@ -68,3 +68,8 @@ print(f"AUC Score: {auc:.4f}")
 - Addressed imbalance using SMOTE or class weights
 - Tested models: Logistic Regression, Random Forest, XGBoost
 - Performed hyperparameter tuning with GridSearchCV
+
+## 📊 Power BI Dashboard Insights
+### 1️⃣ Fraud Detection Summary
+- KPIs: Total Transactions, Fraud Transactions %, Precision, Recall
+- Chart: Fraudulent vs Legitimate Transactions (Bar Chart)

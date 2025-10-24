@@ -88,3 +88,11 @@ print(f"AUC Score: {auc:.4f}")
 - Heatmap showing high-risk customer segments
 - Drill-through report: Transaction-level details for flagged users
 
+## ⚙️ Tech Stack
+| Tool | Purpose |
+|------|----------|
+| Python (pandas, scikit-learn, imbalanced-learn) | Data cleaning & modeling |
+| Power BI / Tableau | Visualization & dashboard |
+| SQL | Querying and aggregating transaction data |
+| Streamlit / Flask | Model deployment |
+

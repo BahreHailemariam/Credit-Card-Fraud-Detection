@@ -63,3 +63,8 @@ from sklearn.metrics import roc_auc_score, roc_curve
 auc = roc_auc_score(y_test, y_pred)
 print(f"AUC Score: {auc:.4f}")
 ```
+
+### 5️⃣ Model Improvement
+- Addressed imbalance using SMOTE or class weights
+- Tested models: Logistic Regression, Random Forest, XGBoost
+- Performed hyperparameter tuning with GridSearchCV

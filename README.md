@@ -111,3 +111,9 @@ streamlit run fraud_app.py
 - Dataset anonymized to protect privacy
 - Model fairness evaluated across customer segments
 - Bias mitigation techniques applied to ensure equitable fraud detection
+
+## 📈 Key Insights
+- Fraudulent transactions often have lower amounts but unique patterns
+- Random Forest and XGBoost achieved high recall (~0.93)
+- Explainable AI (SHAP values) used for feature influence visualization
+

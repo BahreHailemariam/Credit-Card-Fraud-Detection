@@ -139,6 +139,7 @@ Credit_Card_Fraud_Detection/
 ## 👤 Author
 **Bahre Hailemariam**  
 _Data Analyst & BI Developer_  
-📧 bahre.hailemariam@example.com  
-💼 LinkedIn: [https://linkedin.com/in/bahre-hailemariam](https://linkedin.com/in/bahre-hailemariam)  
-📊 GitHub: [https://github.com/bahre-hailemariam](https://github.com/bahre-hailemariam)
+📧 [Email Adress](bahre.hail@gmail.com) <br />
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/bahre-hailemariam/)<br />
+📊 GitHub:[GitHub](https://github.com/BahreHailemariam)<br />
+[Portfolio](https://bahre-hailemariam-data-analyst.crd.co/) 
